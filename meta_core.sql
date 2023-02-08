@@ -1,4 +1,4 @@
-{% set stream_name = 'ads_insights' %}
+{% set stream_name = 'custom_meta_core' %}
 
 {{
   config({
